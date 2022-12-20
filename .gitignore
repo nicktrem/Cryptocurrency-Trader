@@ -1,0 +1,13 @@
+__pycache__
+*.dia
+
+# The following below are excluded as they
+# contain personal information to a user's
+# account
+AuthenticationConstants.py
+TransactionConstants.py
+unit-testing
+crypto_records_backup
+crypto_settings
+transactions
+*.txt
