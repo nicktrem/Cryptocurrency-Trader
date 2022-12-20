@@ -1,4 +1,4 @@
-# Cryptocurrency-Trader
+# Cryptocurrency Trader
 # For automatic informed trading on cryptocurrencies
 
 The code for the Cryptocurrency Trader project
