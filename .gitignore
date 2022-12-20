@@ -3,7 +3,8 @@ __pycache__
 
 # The following below are excluded as they
 # contain personal information to a user's
-# account
+# account and sensitive algorithm
+# information
 AuthenticationConstants.py
 TransactionConstants.py
 unit-testing
